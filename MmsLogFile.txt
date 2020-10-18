@@ -1,0 +1,165 @@
+10/6/20 7:33 PM [Mms]:android.provider.Telephony.WAP_PUSH_DELIVER application/vnd.wap.mms-message
+10/6/20 7:33 PM [Mms]:Received PUSH Intent: Intent { act=android.provider.Telephony.WAP_PUSH_DELIVER typ=application/vnd.wap.mms-message flg=0x18000010 cmp=com.microsoft.android.smsorganizer/.mms.AppMmsReceiver (has extras) }
+10/6/20 7:33 PM [MmsConfig]:tag: int value: maxMessageSize - 1048576
+10/6/20 7:33 PM [MmsConfig]:tag: int value: maxImageHeight - 1944
+10/6/20 7:33 PM [MmsConfig]:tag: int value: maxImageWidth - 2592
+10/6/20 7:33 PM [MmsConfig]:MmsConfig.loadMmsSettings mms_config.xml missing uaProfUrl setting
+10/6/20 7:33 PM [mms_receiver]:com.microsoft.android.smsorganizer received and aborted
+10/6/20 7:33 PM [Mms]:receiving a new mms message
+10/6/20 7:33 PM [Mms]:receiving on a lollipop+ device
+10/6/20 7:33 PM [DownloadManager]:receiving with system method
+10/6/20 7:33 PM [Mms]:PUSH Intent processed.
+10/6/20 7:33 PM [MmsConfig]:MmsConfig: mUserAgent=LM-X420 LG-Android-MMS-V4.0/1.2, mUaProfUrl=http://gsm.lge.com/html/gsm/FnaXQJ7K_9bU0__c/X420-M10-D1.xml
+10/6/20 7:33 PM [MmsConfig]:MmsConfig.loadFromResources
+10/6/20 7:33 PM [MmsConfig]:MmsConfig: all settings -- {smsToMmsTextThreshold=-1, httpParams=, maxImageWidth=2592, enabledMMS=true, maxImageHeight=1944, aliasEnabled=false, maxMessageSize=1048576, enableMMSReadReports=false, recipientLimit=2147483647, enabledNotifyWapMMSC=false, maxSubjectLength=40, smsToMmsTextLengthThreshold=-1, enableMMSDeliveryReports=false, uaProfTagName=x-wap-profile, enableMultipartSMS=true, aliasMinChars=2, supportMmsContentDisposition=true, allowAttachAudio=true, sendMultipartSmsAsSeparateMessages=false, maxMessageTextSize=-1, supportHttpCharsetHeader=false, emailGatewayNumber=, enableGroupMms=true, aliasMaxChars=48, httpSocketTimeout=60000, config_cellBroadcastAppLinks=true, userAgent=, naiSuffix=, uaProfUrl=, enableSMSDeliveryReports=true, enabledTransID=false}
+10/8/20 4:54 AM [Transaction]:using lollipop method for sending sms
+10/8/20 4:54 AM [Transaction]:using system method for sending
+10/8/20 10:20 AM [Mms]:android.provider.Telephony.WAP_PUSH_DELIVER application/vnd.wap.mms-message
+10/8/20 10:20 AM [Mms]:Received PUSH Intent: Intent { act=android.provider.Telephony.WAP_PUSH_DELIVER typ=application/vnd.wap.mms-message flg=0x18000010 cmp=com.microsoft.android.smsorganizer/.mms.AppMmsReceiver (has extras) }
+10/8/20 10:20 AM [MmsConfig]:tag: int value: maxMessageSize - 1048576
+10/8/20 10:20 AM [MmsConfig]:tag: int value: maxImageHeight - 1944
+10/8/20 10:20 AM [MmsConfig]:tag: int value: maxImageWidth - 2592
+10/8/20 10:20 AM [MmsConfig]:MmsConfig.loadMmsSettings mms_config.xml missing uaProfUrl setting
+10/8/20 10:20 AM [mms_receiver]:com.microsoft.android.smsorganizer received and aborted
+10/8/20 10:20 AM [Mms]:receiving a new mms message
+10/8/20 10:20 AM [Mms]:receiving on a lollipop+ device
+10/8/20 10:20 AM [DownloadManager]:receiving with system method
+10/8/20 10:20 AM [Mms]:PUSH Intent processed.
+10/8/20 11:41 AM [Mms]:android.provider.Telephony.WAP_PUSH_DELIVER application/vnd.wap.mms-message
+10/8/20 11:41 AM [Mms]:Received PUSH Intent: Intent { act=android.provider.Telephony.WAP_PUSH_DELIVER typ=application/vnd.wap.mms-message flg=0x18000010 cmp=com.microsoft.android.smsorganizer/.mms.AppMmsReceiver (has extras) }
+10/8/20 11:41 AM [MmsConfig]:tag: int value: maxMessageSize - 1048576
+10/8/20 11:41 AM [MmsConfig]:tag: int value: maxImageHeight - 1944
+10/8/20 11:41 AM [MmsConfig]:tag: int value: maxImageWidth - 2592
+10/8/20 11:41 AM [MmsConfig]:MmsConfig.loadMmsSettings mms_config.xml missing uaProfUrl setting
+10/8/20 11:41 AM [mms_receiver]:com.microsoft.android.smsorganizer received and aborted
+10/8/20 11:41 AM [Mms]:receiving a new mms message
+10/8/20 11:41 AM [Mms]:receiving on a lollipop+ device
+10/8/20 11:41 AM [DownloadManager]:receiving with system method
+10/8/20 11:41 AM [Mms]:PUSH Intent processed.
+10/8/20 11:42 AM [Mms]:android.provider.Telephony.WAP_PUSH_DELIVER application/vnd.wap.mms-message
+10/8/20 11:42 AM [Mms]:Received PUSH Intent: Intent { act=android.provider.Telephony.WAP_PUSH_DELIVER typ=application/vnd.wap.mms-message flg=0x18000010 cmp=com.microsoft.android.smsorganizer/.mms.AppMmsReceiver (has extras) }
+10/8/20 11:42 AM [MmsConfig]:tag: int value: maxMessageSize - 1048576
+10/8/20 11:42 AM [MmsConfig]:tag: int value: maxImageHeight - 1944
+10/8/20 11:42 AM [MmsConfig]:tag: int value: maxImageWidth - 2592
+10/8/20 11:42 AM [MmsConfig]:MmsConfig.loadMmsSettings mms_config.xml missing uaProfUrl setting
+10/8/20 11:42 AM [mms_receiver]:com.microsoft.android.smsorganizer received and aborted
+10/8/20 11:42 AM [Mms]:receiving a new mms message
+10/8/20 11:42 AM [Mms]:receiving on a lollipop+ device
+10/8/20 11:42 AM [DownloadManager]:receiving with system method
+10/8/20 11:42 AM [Mms]:PUSH Intent processed.
+10/8/20 11:42 AM [MmsConfig]:MmsConfig: mUserAgent=LM-X420 LG-Android-MMS-V4.0/1.2, mUaProfUrl=http://gsm.lge.com/html/gsm/FnaXQJ7K_9bU0__c/X420-M10-D1.xml
+10/8/20 11:42 AM [MmsConfig]:MmsConfig.loadFromResources
+10/8/20 11:42 AM [MmsConfig]:MmsConfig: all settings -- {smsToMmsTextThreshold=-1, httpParams=, maxImageWidth=2592, enabledMMS=true, maxImageHeight=1944, aliasEnabled=false, maxMessageSize=1048576, enableMMSReadReports=false, recipientLimit=2147483647, enabledNotifyWapMMSC=false, maxSubjectLength=40, smsToMmsTextLengthThreshold=-1, enableMMSDeliveryReports=false, uaProfTagName=x-wap-profile, enableMultipartSMS=true, aliasMinChars=2, supportMmsContentDisposition=true, allowAttachAudio=true, sendMultipartSmsAsSeparateMessages=false, maxMessageTextSize=-1, supportHttpCharsetHeader=false, emailGatewayNumber=, enableGroupMms=true, aliasMaxChars=48, httpSocketTimeout=60000, config_cellBroadcastAppLinks=true, userAgent=, naiSuffix=, uaProfUrl=, enableSMSDeliveryReports=true, enabledTransID=false}
+10/8/20 12:33 PM [Transaction]:using lollipop method for sending sms
+10/8/20 12:33 PM [Transaction]:using system method for sending
+10/8/20 12:33 PM [MmsSentReceiver]:MMS has finished sending, marking it as so, in the database
+10/8/20 12:33 PM [MmsSentReceiver]:content://mms/outbox/17
+10/8/20 12:33 PM [MmsSentReceiver]:/data/user/0/com.microsoft.android.smsorganizer/cache/send.4523091277484791897.dat
+10/8/20 12:35 PM [Mms]:Already initialized.
+10/8/20 12:35 PM [Mms]:Already initialized.
+10/8/20 12:35 PM [Transaction]:using lollipop method for sending sms
+10/8/20 12:35 PM [Transaction]:using system method for sending
+10/8/20 12:35 PM [MmsSentReceiver]:MMS has finished sending, marking it as so, in the database
+10/8/20 12:35 PM [MmsSentReceiver]:content://mms/outbox/18
+10/8/20 12:35 PM [MmsSentReceiver]:/data/user/0/com.microsoft.android.smsorganizer/cache/send.1213037600119388125.dat
+10/8/20 12:37 PM [Mms]:Already initialized.
+10/8/20 12:37 PM [Mms]:Already initialized.
+10/8/20 12:37 PM [Transaction]:using lollipop method for sending sms
+10/8/20 12:37 PM [Transaction]:using system method for sending
+10/8/20 12:37 PM [MmsSentReceiver]:MMS has finished sending, marking it as so, in the database
+10/8/20 12:37 PM [MmsSentReceiver]:content://mms/outbox/19
+10/8/20 12:37 PM [MmsSentReceiver]:/data/user/0/com.microsoft.android.smsorganizer/cache/send.8872426269414004209.dat
+10/8/20 12:47 PM [Transaction]:using lollipop method for sending sms
+10/8/20 12:47 PM [Transaction]:using system method for sending
+10/8/20 12:48 PM [MmsSentReceiver]:MMS has finished sending, marking it as so, in the database
+10/8/20 12:48 PM [MmsSentReceiver]:content://mms/outbox/20
+10/8/20 12:48 PM [MmsSentReceiver]:/data/user/0/com.microsoft.android.smsorganizer/cache/send.8741905662258589037.dat
+10/8/20 1:34 PM [Transaction]:using lollipop method for sending sms
+10/8/20 1:34 PM [Transaction]:using system method for sending
+10/8/20 1:34 PM [MmsSentReceiver]:MMS has finished sending, marking it as so, in the database
+10/8/20 1:34 PM [MmsSentReceiver]:content://mms/outbox/21
+10/8/20 1:34 PM [MmsSentReceiver]:/data/user/0/com.microsoft.android.smsorganizer/cache/send.1349947412218351356.dat
+10/8/20 1:45 PM [Transaction]:using lollipop method for sending sms
+10/8/20 1:45 PM [Transaction]:using system method for sending
+10/8/20 1:45 PM [MmsSentReceiver]:MMS has finished sending, marking it as so, in the database
+10/8/20 1:45 PM [MmsSentReceiver]:content://mms/outbox/22
+10/8/20 1:45 PM [MmsSentReceiver]:/data/user/0/com.microsoft.android.smsorganizer/cache/send.2482536287533875604.dat
+10/8/20 3:31 PM [Transaction]:using lollipop method for sending sms
+10/8/20 3:31 PM [Transaction]:using system method for sending
+10/8/20 3:31 PM [MmsSentReceiver]:MMS has finished sending, marking it as so, in the database
+10/8/20 3:31 PM [MmsSentReceiver]:content://mms/outbox/23
+10/8/20 3:31 PM [MmsSentReceiver]:/data/user/0/com.microsoft.android.smsorganizer/cache/send.5437896700216248692.dat
+10/8/20 4:08 PM [Transaction]:using lollipop method for sending sms
+10/8/20 4:08 PM [Transaction]:using system method for sending
+10/8/20 4:08 PM [MmsSentReceiver]:MMS has finished sending, marking it as so, in the database
+10/8/20 4:08 PM [MmsSentReceiver]:content://mms/outbox/24
+10/8/20 4:08 PM [MmsSentReceiver]:/data/user/0/com.microsoft.android.smsorganizer/cache/send.555088225634796259.dat
+10/8/20 4:09 PM [Mms]:Already initialized.
+10/8/20 4:09 PM [Mms]:Already initialized.
+10/8/20 4:09 PM [Transaction]:using lollipop method for sending sms
+10/8/20 4:09 PM [Transaction]:using system method for sending
+10/8/20 4:09 PM [MmsSentReceiver]:MMS has finished sending, marking it as so, in the database
+10/8/20 4:09 PM [MmsSentReceiver]:content://mms/outbox/25
+10/8/20 4:09 PM [MmsSentReceiver]:/data/user/0/com.microsoft.android.smsorganizer/cache/send.8935666266164092482.dat
+10/11/20 12:57 PM [Transaction]:using lollipop method for sending sms
+10/11/20 12:57 PM [Transaction]:using system method for sending
+10/11/20 12:57 PM [MmsSentReceiver]:MMS has finished sending, marking it as so, in the database
+10/11/20 12:57 PM [MmsSentReceiver]:content://mms/outbox/1
+10/11/20 12:57 PM [MmsSentReceiver]:/data/user/0/com.microsoft.android.smsorganizer/cache/send.3438050050262470448.dat
+10/11/20 1:08 PM [Mms]:android.provider.Telephony.WAP_PUSH_DELIVER application/vnd.wap.mms-message
+10/11/20 1:08 PM [Mms]:Received PUSH Intent: Intent { act=android.provider.Telephony.WAP_PUSH_DELIVER typ=application/vnd.wap.mms-message flg=0x18000010 cmp=com.microsoft.android.smsorganizer/.mms.AppMmsReceiver (has extras) }
+10/11/20 1:08 PM [MmsConfig]:tag: int value: maxMessageSize - 1048576
+10/11/20 1:08 PM [MmsConfig]:tag: int value: maxImageHeight - 1944
+10/11/20 1:08 PM [MmsConfig]:tag: int value: maxImageWidth - 2592
+10/11/20 1:08 PM [MmsConfig]:MmsConfig.loadMmsSettings mms_config.xml missing uaProfUrl setting
+10/11/20 1:08 PM [mms_receiver]:com.microsoft.android.smsorganizer received and aborted
+10/11/20 1:08 PM [Mms]:receiving a new mms message
+10/11/20 1:08 PM [Mms]:android.provider.Telephony.WAP_PUSH_DELIVER application/vnd.wap.mms-message
+10/11/20 1:08 PM [Mms]:Received PUSH Intent: Intent { act=android.provider.Telephony.WAP_PUSH_DELIVER typ=application/vnd.wap.mms-message flg=0x18000010 cmp=com.microsoft.android.smsorganizer/.mms.AppMmsReceiver (has extras) }
+10/11/20 1:08 PM [MmsConfig]:tag: int value: maxMessageSize - 1048576
+10/11/20 1:08 PM [MmsConfig]:tag: int value: maxImageHeight - 1944
+10/11/20 1:08 PM [MmsConfig]:tag: int value: maxImageWidth - 2592
+10/11/20 1:08 PM [MmsConfig]:MmsConfig.loadMmsSettings mms_config.xml missing uaProfUrl setting
+10/11/20 1:08 PM [mms_receiver]:com.microsoft.android.smsorganizer received and aborted
+10/11/20 1:08 PM [Mms]:android.provider.Telephony.WAP_PUSH_DELIVER application/vnd.wap.mms-message
+10/11/20 1:08 PM [Mms]:Received PUSH Intent: Intent { act=android.provider.Telephony.WAP_PUSH_DELIVER typ=application/vnd.wap.mms-message flg=0x18000010 cmp=com.microsoft.android.smsorganizer/.mms.AppMmsReceiver (has extras) }
+10/11/20 1:08 PM [MmsConfig]:tag: int value: maxMessageSize - 1048576
+10/11/20 1:08 PM [MmsConfig]:tag: int value: maxImageHeight - 1944
+10/11/20 1:08 PM [MmsConfig]:tag: int value: maxImageWidth - 2592
+10/11/20 1:08 PM [MmsConfig]:MmsConfig.loadMmsSettings mms_config.xml missing uaProfUrl setting
+10/11/20 1:08 PM [mms_receiver]:com.microsoft.android.smsorganizer received and aborted
+10/11/20 1:08 PM [Mms]:receiving a new mms message
+10/11/20 1:08 PM [Mms]:receiving on a lollipop+ device
+10/11/20 1:08 PM [DownloadManager]:receiving with system method
+10/11/20 1:08 PM [Mms]:PUSH Intent processed.
+10/11/20 1:08 PM [Mms]:android.provider.Telephony.WAP_PUSH_DELIVER application/vnd.wap.mms-message
+10/11/20 1:08 PM [Mms]:Received PUSH Intent: Intent { act=android.provider.Telephony.WAP_PUSH_DELIVER typ=application/vnd.wap.mms-message flg=0x18000010 cmp=com.microsoft.android.smsorganizer/.mms.AppMmsReceiver (has extras) }
+10/11/20 1:08 PM [MmsConfig]:tag: int value: maxMessageSize - 1048576
+10/11/20 1:08 PM [MmsConfig]:tag: int value: maxImageHeight - 1944
+10/11/20 1:08 PM [MmsConfig]:tag: int value: maxImageWidth - 2592
+10/11/20 1:08 PM [MmsConfig]:MmsConfig.loadMmsSettings mms_config.xml missing uaProfUrl setting
+10/11/20 1:08 PM [Mms]:receiving a new mms message
+10/11/20 1:08 PM [mms_receiver]:com.microsoft.android.smsorganizer received and aborted
+10/11/20 1:08 PM [Mms]:receiving on a lollipop+ device
+10/11/20 1:08 PM [DownloadManager]:receiving with system method
+10/11/20 1:08 PM [Mms]:PUSH Intent processed.
+10/11/20 6:10 PM [Transaction]:using lollipop method for sending sms
+10/11/20 6:10 PM [Transaction]:using system method for sending
+10/11/20 6:10 PM [MmsSentReceiver]:MMS has finished sending, marking it as so, in the database
+10/11/20 6:10 PM [MmsSentReceiver]:content://mms/outbox/4
+10/11/20 6:10 PM [MmsSentReceiver]:/data/user/0/com.microsoft.android.smsorganizer/cache/send.5301805830354957187.dat
+10/12/20 12:21 AM [Transaction]:using lollipop method for sending sms
+10/12/20 12:21 AM [Transaction]:using system method for sending
+10/12/20 12:21 AM [MmsSentReceiver]:MMS has finished sending, marking it as so, in the database
+10/12/20 12:21 AM [MmsSentReceiver]:content://mms/outbox/5
+10/12/20 12:21 AM [MmsSentReceiver]:/data/user/0/com.microsoft.android.smsorganizer/cache/send.8703279038764591898.dat
+10/12/20 1:13 AM [Transaction]:using lollipop method for sending sms
+10/12/20 1:13 AM [Transaction]:using system method for sending
+10/12/20 1:13 AM [MmsSentReceiver]:MMS has finished sending, marking it as so, in the database
+10/12/20 1:13 AM [MmsSentReceiver]:content://mms/outbox/1
+10/12/20 1:13 AM [MmsSentReceiver]:/data/user/0/com.microsoft.android.smsorganizer/cache/send.1015365702456978144.dat
+10/17/20 6:43 AM [Transaction]:using lollipop method for sending sms
+10/17/20 6:43 AM [Transaction]:using system method for sending
+10/17/20 6:47 AM [MmsSentReceiver]:MMS has finished sending, marking it as so, in the database
+10/17/20 6:47 AM [MmsSentReceiver]:content://mms/outbox/1
+10/17/20 6:47 AM [MmsSentReceiver]:/data/user/0/com.microsoft.android.smsorganizer/cache/send.8774207268135991537.dat
